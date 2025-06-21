@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+langchain
+langchain-google-genai
+google-generativeai
+langchain-core
+langchain-community
+langchain_ollama
+langchain_chroma
+chromadb
+ollama
+
